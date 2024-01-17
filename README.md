@@ -1,7 +1,7 @@
 # cmlabs-frontend-internship-test
 
 
-**FILE & FOLDER PROJECT**
+**____FILE & FOLDER PROJECT____**
 
 Folder
 - img
@@ -19,7 +19,7 @@ Compiler CSS
 - styles.scss
 
 
-**RUN PROJECT**
+**____RUN PROJECT____**
 
 - Silahkan jalankan file category.html untuk menampilkan halaman utama.
 - Klik pada icon arah panah kiri dan kanan jika ingin melihat kategori makanan apa saja yang tersedia.
